@@ -12,3 +12,28 @@
   <identifier>https://example.org/apalai-new-testament</identifier>
   <subject>New Testament translation</subject>
 </olac>
+
+<olac xmlns="http://www.language-archives.org/OLAC/1.1/">
+  <title>Ritonõpo Omiry: Apalaí Ne Apalaí New Testament</title>
+  <creator>Koehn, Edward H.; Koehn, Sally S.</creator>
+  <contributor role="compiler">Koehn, Edward H.</contributor>
+  <contributor role="compiler">Koehn, Sally S.</contributor>
+  <date>1994</date>
+  <publisher>Instituto Lingüístico (Summer Institute of Linguistics)</publisher>
+  <publisherPlace>Brasília DF, Brasil</publisherPlace>
+  <description>This is a preliminary edition of the Apalaí New Testament interlinear text, prepared by Edward H. Koehn and Sally S. Koehn. It is part of the Arquivo Lingüístico series and consists of 260 pages of interlinearized texts.</description>
+  <format>text</format>
+  <extent>260 pages</extent>
+  <type xsi:type="dcterms:DCMIType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Text</type>
+  <language code="apy">Apalaí</language>
+  <language code="por">Portuguese</language>
+  <subject language="apy">Apalaí</subject>
+  <subject>Interlinearized Text</subject>
+  <subject>Language Texts</subject>
+  <coverage>Brazil</coverage>
+  <rights>Not available online. Copyright © 1994 Instituto Lingüístico (SIL).</rights>
+  <relation>Is part of series: Arquivo Lingüístico</relation>
+  <identifier>Not available online</identifier>
+  <edition>Preliminary ed.</edition>
+  <status>Published</status>
+</olac>
