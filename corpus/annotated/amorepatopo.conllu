@@ -1,0 +1,10 @@
+# sent_id = amorepatopo_1
+# text = Kanawa poko pake ahtao tyrisemy .
+# text_port = Antigamente a canoa era feita assim
+# text_eng = Formerly the canoe was made this way
+1	Kanawa	kanawa	NOUN	n	_	5	nsubj	_	[];;
+2	poko	poko	ADP	posp	_	1	case	_	[];;
+3	pake	pake	ADV	adv	_	5	advmod	_	[];;
+4	ahtao	ahtao	ADV	adv	_	3	flat	_	[];;
+5	tyrisemy	yri	VERB	_	VerbForm=Part	0	root	_	[];;
+6	.	.	PUNCT	punct	_	5	punct	_	[];;
