@@ -34,7 +34,7 @@ This repository contains a corpus of texts and narratives in **Apalaí**, a Cari
 
 If you use this corpus in your research, please cite it as:
 
-> Carvalho, F. O. de & Gerardi, F. F. (2025). *Apalaí Corpus: Corpus of Apalaí (Cariban) Texts and Narratives*. Version 1.0.
+> Carvalho, F. O. de & Gerardi, F. F. (2025). *Apalaí Corpus: Corpus of Apalaí (Cariban) Texts and Narratives*. Version ?.
 
 ---
 
