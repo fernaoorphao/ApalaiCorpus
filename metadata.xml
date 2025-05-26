@@ -37,3 +37,64 @@
   <edition>Preliminary ed.</edition>
   <status>Published</status>
 </olac>
+
+<olac xmlns="http://www.language-archives.org/OLAC/1.1/">
+  <title>Apalaí Phrase Structure: A Preliminary Analysis</title>
+  <creator>Koehn, Edward H.</creator>
+  <date>2009</date>
+  <dateCreated>1966</dateCreated>
+  <publisher>Associação Internacional de Linguística, SIL – Brasil</publisher>
+  <publisherPlace>Anápolis GO, Brasil</publisherPlace>
+  <description>
+    The Apalaí phrase comprises a class of constructions which are more than a single word and potentially less than a clause. 
+    There are several main phrase types which differ according to their internal structure and their distribution within the clause. 
+    The scope of this paper is the description of Apalaí phrase structures and the function of the phrase within a clause.
+  </description>
+  <format>text</format>
+  <extent>17 pages</extent>
+  <type xsi:type="dcterms:DCMIType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Text</type>
+  <language code="eng">English</language>
+  <subject language="apy">Apalaí</subject language>
+  <coverage>Brazil</coverage>
+  <rights>Copyright © 2009 SIL Brasil. Used with permission. Not available online.</rights>
+  <edition>Preliminary Analysis</edition>
+  <status>Published</status>
+  <type>Manuscript</type>
+  <subject>Grammatical Description</subject>
+  <subject>Verb Phrases</subject>
+  <subject>Nominal Phrases</subject>
+  <subject>Relator-Axis and Particle Phrases</subject>
+  <subject>Postpositional Particles</subject>
+  <tableOfContents>
+    0. Introduction -- 1. The Nominal phrases -- 1.1. Possession phrase -- 1.2. Modifier phrase -- 
+    1.3. Accompaniment phrase -- 1.4. Descriptive phrase -- 1.5. Attributive phrase -- 
+    1.6. Instrument phrase -- 1.7. Occupational phrase -- 1.8. Simple Nominal phrase -- 
+    2. The Verb phrases -- 2.1. Independent phrase -- 2.2. Auxiliary phrase -- 2.3. Ideophone phrase -- 
+    3. The Relator-axis phrase -- 4. The Particle phrase -- 5. The Postpositional particles
+  </tableOfContents>
+</olac>
+
+<olac xmlns="http://www.language-archives.org/OLAC/1.1/">
+  <title>Apalaí Dictionary</title>
+  <creator>Koehn, Edward H.; Koehn, Sally S.</creator>
+  <contributor role="compiler">Koehn, Edward H.</contributor>
+  <contributor role="compiler">Koehn, Sally S.</contributor>
+  <date>1995</date>
+  <publisher>Sociedade Internacional de Lingüística</publisher>
+  <publisherPlace>Brasília</publisherPlace>
+  <description>This is the first edition of the Apalaí Dictionary, compiled by Edward H. Koehn and Sally S. Koehn. It contains 163 pages of lexical entries for the Apalaí language, with its associated linguistic information and vocabulary.</description>
+  <format>text</format>
+  <extent>iii, 163 pages</extent>
+  <type xsi:type="dcterms:DCMIType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Text</type>
+  <language code="apy">Apalaí</language>
+  <language code="por">Portuguese</language>
+  <subject language="apy">Apalaí</subject>
+  <coverage>Brazil</coverage>
+  <rights>Copyright © 1995 Sociedade Internacional de Lingüística. Not available online.</rights>
+  <edition>Primeira Edição</edition>
+  <status>Published</status>
+  <type>Book</type>
+  <subject>Lexicon</subject>
+  <subject>Dictionaries and Vocabularies</subject>
+  <relation>Has Format: Apalai dictionary, Rough draft, 2018</relation>
+</olac>
