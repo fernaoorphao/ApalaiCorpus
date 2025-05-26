@@ -98,3 +98,29 @@
   <subject>Dictionaries and Vocabularies</subject>
   <relation>Has Format: Apalai dictionary, Rough draft, 2018</relation>
 </olac>
+
+<olac xmlns="http://www.language-archives.org/OLAC/1.1/"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/
+                          http://www.language-archives.org/OLAC/1.1/olac.xsd">
+  
+  <title>AMOREPATOH SERO TYRISÃ POKO</title>
+  <alternative>APARAI OMIRY AE</alternative>
+  
+  <creator>Secretaria da Educação do Estado do Amapá</creator>
+  <contributor>Núcleo de Educação Indígena – NEI</contributor>
+  <contributor>Associação dos Povos Indígenas Waiana e Apalai – APIWA</contributor>
+  <contributor>Produção: UATO</contributor>
+
+  <date>2018</date>
+
+  <language code="por">Portuguese</language>
+  <language code="apy">Aparai</language>
+
+  <type xsi:type="dcterms:DCMIType">Text</type>
+  <publisher>Secretaria da Educação do Estado do Amapá</publisher>
+
+  <description>Educational or cultural material produced in collaboration with Aparai and Wayana communities of Amapá, Brazil.</description>
+
+</olac>
+
