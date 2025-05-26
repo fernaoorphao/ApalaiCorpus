@@ -1,0 +1,8 @@
+# sent_id = koehn_3
+# text = opi tyrise karapareta a
+# text_port = O remédio foi feito por Karapetca
+# text_eng = The medicine was made by Karapeta
+1	opi	opi	NOUN	n	_	2	nsubj	_	[];medicine;remédio
+2	tyrise	yri	VERB	v	VerbForm=Part	0	root	_	[],put,make;fazer,colocar,por
+3	karapareta	karapeta	PROPN	propn	_	2	obl	_	_
+4	a	a	ADP	posp	_	3	case	_	[];by;por
