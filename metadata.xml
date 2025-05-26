@@ -1,0 +1,14 @@
+<olac xmlns="http://www.language-archives.org/OLAC/1.1/">
+  <title>Ritonõpo Omiry: Apalaí Ne Apalaí New Testament</title>
+  <creator>Wycliffe Bible Translators</creator>
+  <date>1986</date>
+  <publisher>Wycliffe Bible Translators, Inc.</publisher>
+  <contributor>Digital Bible Society</contributor>
+  <description>This is the New Testament translated into Apalaí, titled "Ritonõpo Omiry". It was produced by Wycliffe Bible Translators and printed by the Digital Bible Society for non-commercial use.</description>
+  <language code="apq">Apalaí</language>
+  <type xsi:type="dcterms:DCMIType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Text</type>
+  <format>text/pdf</format>
+  <rights>This Bible is copyrighted by Wycliffe Bible Translators (Wycliffe.org) and printed with permission by the Digital Bible Society (dbs.org) for non-commercial use.</rights>
+  <identifier>https://example.org/apalai-new-testament</identifier>
+  <subject>New Testament translation</subject>
+</olac>
