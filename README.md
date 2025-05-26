@@ -34,7 +34,13 @@ This repository contains a corpus of texts and narratives in **Apalaí**, a Cari
 
 If you use this corpus in your research, please cite it as:
 
-> Carvalho, F. O. de & Gerardi, F. F. (2025). *Apalaí Corpus: Corpus of Apalaí (Cariban) Texts and Narratives*. Version ?.
+> de Carvalho, F.O. and Ferraz Gerardi, F. (2025) ApalaiCorpus: Apalai Corpus (v0.1). Zenodo. https://doi.org/10.5281/zenodo.15518117
+>
+> 
+
+[![DOI](https://zenodo.org/badge/990560361.svg)](https://doi.org/10.5281/zenodo.15518116)
+
+
 
 ---
 
